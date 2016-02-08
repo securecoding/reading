@@ -8,6 +8,8 @@ How to read a paper, Srinivasan Keshav, 2007
 
 Advances in software inspection, Michael Fagan, 1986
 
+All I really need to know about pair programming I learned in kindergarten, Laurie Williams and Robert Kessler, 2000
+
 ## Week 3: Binary analysis
 
 Reflections on trusting trust, Ken Thompson, 1984
@@ -30,9 +32,13 @@ Continuous integration and its tools, Mathias Meyer, 2014
 
 Some thoughts on security after ten years of qmail 1.0, Daniel Bernstein, 2007
 
+The protection of information in computer systems, subsection "Considerations surrounding the study of protection", Jerome Saltzer and Michael Schroeder, 1975
+
 ## Week 7: Threat modelling
 
 Experiences threat modeling at Microsoft, Adam Shostack, 2008
+
+This world of ours, James Mickens, 2014
 
 ## Week 8: Security as a process
 
